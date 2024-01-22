@@ -1,0 +1,2 @@
+SELECT * FROM CountryPopulation
+WHERE population > (SELECT population FROM CountryPopulation WHERE countryId = '001');
