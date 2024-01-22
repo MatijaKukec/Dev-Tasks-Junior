@@ -1,0 +1,14 @@
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/bin/Debug/net7.0/Dev_Tasks_Junior_Task_2
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/bin/Debug/net7.0/Dev_Tasks_Junior_Task_2.deps.json
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/bin/Debug/net7.0/Dev_Tasks_Junior_Task_2.runtimeconfig.json
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/bin/Debug/net7.0/Dev_Tasks_Junior_Task_2.dll
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/bin/Debug/net7.0/Dev_Tasks_Junior_Task_2.pdb
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/obj/Debug/net7.0/Dev_Tasks_Junior_Task_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/obj/Debug/net7.0/Dev_Tasks_Junior_Task_2.AssemblyInfoInputs.cache
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/obj/Debug/net7.0/Dev_Tasks_Junior_Task_2.AssemblyInfo.cs
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/obj/Debug/net7.0/Dev_Tasks_Junior_Task_2.csproj.CoreCompileInputs.cache
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/obj/Debug/net7.0/Dev_Tasks_Junior_Task_2.dll
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/obj/Debug/net7.0/refint/Dev_Tasks_Junior_Task_2.dll
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/obj/Debug/net7.0/Dev_Tasks_Junior_Task_2.pdb
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/obj/Debug/net7.0/Dev_Tasks_Junior_Task_2.genruntimeconfig.cache
+/home/kukec/tmp/Dev_Tasks_Junior_Task_1/Dev_Tasks_Junior_Task_2/obj/Debug/net7.0/ref/Dev_Tasks_Junior_Task_2.dll
